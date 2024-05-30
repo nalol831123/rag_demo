@@ -1,0 +1,10 @@
+langchain
+streamlit
+unstructured
+unstructured[pdf]
+chromadb
+sentence-transformers
+langchain-community
+langchain-openai
+pysqlite3-binary
+streamlit_feedback
